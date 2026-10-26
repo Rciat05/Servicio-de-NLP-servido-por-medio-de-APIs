@@ -1,0 +1,32 @@
+# --- Secrets: NEVER commit these ---
+.env
+
+# --- Python junk ---
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# --- Model weights (too big for git; share them via release / shared folder) ---
+models/*
+!models/.gitkeep
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.onnx
+
+# --- Downloaded datasets / caches ---
+data/squad/
+.cache/
+huggingface/
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# NOTE: logs/ is NOT ignored on purpose: training logs and loss curves are deliverables.
