@@ -55,11 +55,11 @@ TODOS
 | Field | Value |
 |---|---|
 | Team id | `team-XX` — **TODO (Roberto):** registered name from the instructor |
-| Members | Roberto Iglesias, **TODO:** Name 2, **TODO:** Name 3 |
+| Members | Roberto Iglesias, **TODO:** Andrés' full name, Cristian Jafet Rosales Martínez |
 | Repository URL | https://github.com/Rciat05/Servicio-de-NLP-servido-por-medio-de-APIs |
 | `submission` commit hash | **TODO:** a commit cannot contain its own hash; write the hash of the parent commit or "see tag `submission`" |
 | Public service URL used at the dry run | https://judge-habitat-unwed.ngrok-free.dev (ngrok free static domain) — **TODO (Roberto):** confirm it is unchanged at the dry run |
-| AI tools used (which, and for what) | Claude (Anthropic): generated the initial project skeleton (FastAPI service, training/evaluation scripts, tests) and guided setup; we ran, tested and reviewed everything. **TODO (all):** add each member's tools. |
+| AI tools used (which, and for what) | Claude (Anthropic): generated the initial project skeleton (FastAPI service, training/evaluation scripts, tests) and guided setup; we ran, tested and reviewed everything. Cristian Jafet used Claude (chat and Claude Code): it wrote the mini-set questions from the course readings and their validation script, drafted sections 8 and 9 from the measured results, and helped prepare the Q&A and the pitch; he ran the remote tests and made the commits. **TODO (Roberto, Andrés):** add your tools. |
 
 ## 1. Model choice and justification
 
@@ -128,8 +128,9 @@ sample-04 asks how much LoRA reduces GPU memory for BERT-base, but the context o
 | Size on disk | 265 MB (`model.safetensors`) |
 | Mean latency per `/predict` request on your laptop (CPU) | 0.32 s on localhost (max 1.13 s, 3,171-character context); 1.36 s through the ngrok tunnel (max 1.85 s) → about 68 s projected for 50 items |
 | Laptop CPU and RAM | Intel Core i7-6700HQ (4 cores / 8 threads), 32 GB RAM, Windows 10 |
+| Mean latency from another network (home Wi-Fi, Sat 31 Oct 2026, 10:44 El Salvador time) | 1.36 s mean, 2.01 s max per request through the ngrok tunnel; 68 s projected for 50 items; 7 of 7 contract checks passed, public sample 4/5 |
 
-**TODO (Compañero 3):** add latency measured from another network, with time of day. **TODO (Compañero 2 / Roberto):** add RoBERTa latency if it is evaluated.
+**TODO (Compañero 2 / Roberto):** add RoBERTa latency if it is evaluated.
 
 ## 7. Problems encountered and how you fixed them
 
