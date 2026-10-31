@@ -1,0 +1,44 @@
+{"id": "mini-at-01", "golds": ["six"], "pred_text": "six", "pred_start": 49, "diff": -5.381015777587891}
+{"id": "mini-at-02", "golds": ["512"], "pred_text": "512", "pred_start": 405, "diff": -1.3809919357299805}
+{"id": "mini-at-03", "golds": [], "pred_text": "two", "pred_start": 91, "diff": 4.257474899291992}
+{"id": "mini-at-04", "golds": ["8"], "pred_text": "8", "pred_start": 210, "diff": 1.0725274085998535}
+{"id": "mini-at-05", "golds": ["64"], "pred_text": "64", "pred_start": 267, "diff": -6.610780715942383}
+{"id": "mini-at-06", "golds": ["4000"], "pred_text": "4000", "pred_start": 366, "diff": 2.5407590866088867}
+{"id": "mini-at-07", "golds": ["300,000"], "pred_text": "300,000", "pred_start": 269, "diff": -2.0953712463378906}
+{"id": "mini-at-08", "golds": [], "pred_text": "300,000", "pred_start": 269, "diff": 4.301941871643066}
+{"id": "mini-at-09", "golds": ["4.5 million"], "pred_text": "4.5 million", "pred_start": 80, "diff": -8.436277389526367}
+{"id": "mini-at-10", "golds": ["37000 tokens"], "pred_text": "4.5 million sentence pairs", "pred_start": 80, "diff": 0.8203449249267578}
+{"id": "mini-at-11", "golds": [], "pred_text": "32000", "pred_start": 304, "diff": -2.3990983963012695}
+{"id": "mini-at-12", "golds": ["41.0"], "pred_text": "28.4", "pred_start": 61, "diff": 1.9796581268310547}
+{"id": "mini-at-13", "golds": ["20"], "pred_text": "20", "pred_start": 421, "diff": -0.7201566696166992}
+{"id": "mini-at-14", "golds": [], "pred_text": "28.4 BLEU", "pred_start": 61, "diff": 5.768014907836914}
+{"id": "mini-at-15", "golds": ["a factor of k"], "pred_text": "k", "pred_start": 1967, "diff": -5.262426376342773}
+{"id": "mini-at-16", "golds": [], "pred_text": "n to r", "pred_start": 1417, "diff": -0.4854917526245117}
+{"id": "mini-lo-01", "golds": ["zero"], "pred_text": "a random Gaussian", "pred_start": 329, "diff": -0.8448944091796875}
+{"id": "mini-lo-02", "golds": ["a random Gaussian"], "pred_text": "with a random Gaussian", "pred_start": 324, "diff": -3.317798614501953}
+{"id": "mini-lo-03", "golds": ["A and B"], "pred_text": "A and B", "pred_start": 440, "diff": -2.4644832611083984}
+{"id": "mini-lo-04", "golds": [], "pred_text": "Matrix A is initialized with a random Gaussian, while B starts at zero", "pred_start": 300, "diff": 4.610682487487793}
+{"id": "mini-lo-05", "golds": ["350 GB"], "pred_text": "1.2 TB to 350 GB", "pred_start": 180, "diff": -1.393813133239746}
+{"id": "mini-lo-06", "golds": ["35 MB"], "pred_text": "10,000 times smaller", "pred_start": 325, "diff": -0.3308563232421875}
+{"id": "mini-lo-07", "golds": ["query and value projection matrices"], "pred_text": "query and value projection", "pred_start": 228, "diff": -4.6248369216918945}
+{"id": "mini-lo-08", "golds": [], "pred_text": "350 GB to 35 MB", "pred_start": 300, "diff": -0.5820484161376953}
+{"id": "mini-lo-09", "golds": ["355 million"], "pred_text": "355 million", "pred_start": 152, "diff": -4.49277400970459}
+{"id": "mini-lo-10", "golds": ["GLUE benchmark"], "pred_text": "GLUE", "pred_start": 268, "diff": -6.171674728393555}
+{"id": "mini-lo-11", "golds": ["1.5 billion"], "pred_text": "1.5 billion", "pred_start": 187, "diff": -6.957782745361328}
+{"id": "mini-lo-12", "golds": [], "pred_text": "1.5 billion", "pred_start": 187, "diff": 5.4413299560546875}
+{"id": "mini-lo-13", "golds": ["175 billion"], "pred_text": "175 billion", "pred_start": 123, "diff": -10.001753807067871}
+{"id": "mini-lo-14", "golds": [], "pred_text": "175 billion", "pred_start": 123, "diff": -9.99749755859375}
+{"id": "mini-lo-15", "golds": ["18 million parameters"], "pred_text": "18 million", "pred_start": 1241, "diff": -8.019551277160645}
+{"id": "mini-yo-01", "golds": ["500 classes"], "pred_text": "500", "pred_start": 70, "diff": -3.6491870880126953}
+{"id": "mini-yo-02", "golds": ["645,000"], "pred_text": "645,000", "pred_start": 125, "diff": -8.980779647827148}
+{"id": "mini-yo-03", "golds": ["eight"], "pred_text": "eight", "pred_start": 173, "diff": -1.1580963134765625}
+{"id": "mini-yo-04", "golds": [], "pred_text": "645,000", "pred_start": 125, "diff": -3.3404417037963867}
+{"id": "mini-yo-05", "golds": ["layers 4 and 5"], "pred_text": "layers 4 and 5", "pred_start": 255, "diff": 3.0575075149536133}
+{"id": "mini-yo-06", "golds": ["fragile co-adapted features"], "pred_text": "fragile co-adapted features", "pred_start": 306, "diff": -4.917507171630859}
+{"id": "mini-yo-07", "golds": [], "pred_text": "Performance at layers 1 and 2 matched the baseline", "pred_start": 160, "diff": 4.573760986328125}
+{"id": "mini-yo-08", "golds": ["2.1 percent"], "pred_text": "2.1 percent", "pred_start": 368, "diff": -6.9149580001831055}
+{"id": "mini-yo-09", "golds": ["1.6 percent"], "pred_text": "1.6 percent", "pred_start": 301, "diff": -7.559316635131836}
+{"id": "mini-yo-10", "golds": [], "pred_text": "2.1 percent", "pred_start": 368, "diff": -1.4975452423095703}
+{"id": "mini-yo-11", "golds": ["layer 3"], "pred_text": "layer 3", "pred_start": 279, "diff": -6.46204948425293}
+{"id": "mini-yo-12", "golds": ["random weights"], "pred_text": "beat random weights", "pred_start": 160, "diff": -4.422816276550293}
+{"id": "mini-yo-13", "golds": ["general"], "pred_text": "fragile co-adapted features", "pred_start": 2054, "diff": 0.6649389266967773}
