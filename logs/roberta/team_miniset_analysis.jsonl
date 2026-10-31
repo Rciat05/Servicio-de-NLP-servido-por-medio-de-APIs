@@ -1,0 +1,44 @@
+{"id": "mini-at-01", "golds": ["six"], "pred_text": "six", "pred_start": 49, "diff": -6.011537551879883}
+{"id": "mini-at-02", "golds": ["512"], "pred_text": "512", "pred_start": 405, "diff": -8.866971015930176}
+{"id": "mini-at-03", "golds": [], "pred_text": "multi", "pred_start": 109, "diff": 1.0604724884033203}
+{"id": "mini-at-04", "golds": ["8"], "pred_text": "8", "pred_start": 210, "diff": 2.359281539916992}
+{"id": "mini-at-05", "golds": ["64"], "pred_text": "64", "pred_start": 267, "diff": -7.172043800354004}
+{"id": "mini-at-06", "golds": ["4000"], "pred_text": "4000", "pred_start": 366, "diff": -1.9228854179382324}
+{"id": "mini-at-07", "golds": ["300,000"], "pred_text": "300,000", "pred_start": 269, "diff": -7.24378776550293}
+{"id": "mini-at-08", "golds": [], "pred_text": "4000", "pred_start": 366, "diff": 2.8772835731506348}
+{"id": "mini-at-09", "golds": ["4.5 million"], "pred_text": "4.5 million", "pred_start": 80, "diff": -10.693965911865234}
+{"id": "mini-at-10", "golds": ["37000 tokens"], "pred_text": "37000 tokens", "pred_start": 187, "diff": 0.3907022476196289}
+{"id": "mini-at-11", "golds": [], "pred_text": "37000 tokens", "pred_start": 187, "diff": 5.93578577041626}
+{"id": "mini-at-12", "golds": ["41.0"], "pred_text": "41.0", "pred_start": 187, "diff": -10.907115936279297}
+{"id": "mini-at-13", "golds": ["20"], "pred_text": "20", "pred_start": 421, "diff": -8.009163856506348}
+{"id": "mini-at-14", "golds": [], "pred_text": "41.0", "pred_start": 187, "diff": 10.083383560180664}
+{"id": "mini-at-15", "golds": ["a factor of k"], "pred_text": "a factor of k", "pred_start": 1955, "diff": -7.526546001434326}
+{"id": "mini-at-16", "golds": [], "pred_text": "n", "pred_start": 923, "diff": 7.9779640436172485}
+{"id": "mini-lo-01", "golds": ["zero"], "pred_text": "zero", "pred_start": 366, "diff": 7.905301094055176}
+{"id": "mini-lo-02", "golds": ["a random Gaussian"], "pred_text": "with a random Gaussian", "pred_start": 324, "diff": -11.40840196609497}
+{"id": "mini-lo-03", "golds": ["A and B"], "pred_text": "A and B", "pred_start": 440, "diff": -2.983236312866211}
+{"id": "mini-lo-04", "golds": [], "pred_text": "zero", "pred_start": 366, "diff": 5.39030385017395}
+{"id": "mini-lo-05", "golds": ["350 GB"], "pred_text": "1.2 TB", "pred_start": 180, "diff": -7.594438552856445}
+{"id": "mini-lo-06", "golds": ["35 MB"], "pred_text": "35 MB", "pred_start": 310, "diff": -3.0818824768066406}
+{"id": "mini-lo-07", "golds": ["query and value projection matrices"], "pred_text": "query and value projection", "pred_start": 228, "diff": -4.656215667724609}
+{"id": "mini-lo-08", "golds": [], "pred_text": "35 MB", "pred_start": 310, "diff": 4.605917453765869}
+{"id": "mini-lo-09", "golds": ["355 million"], "pred_text": "355 million", "pred_start": 152, "diff": -8.756082534790039}
+{"id": "mini-lo-10", "golds": ["GLUE benchmark"], "pred_text": "GLUE", "pred_start": 268, "diff": -12.056392669677734}
+{"id": "mini-lo-11", "golds": ["1.5 billion"], "pred_text": "1.5 billion", "pred_start": 187, "diff": -9.853775024414062}
+{"id": "mini-lo-12", "golds": [], "pred_text": "355 million", "pred_start": 152, "diff": 7.099347114562988}
+{"id": "mini-lo-13", "golds": ["175 billion"], "pred_text": "175 billion", "pred_start": 123, "diff": -9.686792373657227}
+{"id": "mini-lo-14", "golds": [], "pred_text": "175 billion", "pred_start": 123, "diff": 0.91009521484375}
+{"id": "mini-lo-15", "golds": ["18 million parameters"], "pred_text": "18 million", "pred_start": 1241, "diff": -10.403054237365723}
+{"id": "mini-yo-01", "golds": ["500 classes"], "pred_text": "500", "pred_start": 70, "diff": -10.398051261901855}
+{"id": "mini-yo-02", "golds": ["645,000"], "pred_text": "645,000", "pred_start": 125, "diff": -9.142546653747559}
+{"id": "mini-yo-03", "golds": ["eight"], "pred_text": "eight", "pred_start": 173, "diff": -5.730167865753174}
+{"id": "mini-yo-04", "golds": [], "pred_text": "645,000", "pred_start": 125, "diff": 2.2425689697265625}
+{"id": "mini-yo-05", "golds": ["layers 4 and 5"], "pred_text": "layers 4 and 5", "pred_start": 255, "diff": -6.576421737670898}
+{"id": "mini-yo-06", "golds": ["fragile co-adapted features"], "pred_text": "fragile co-adapted features", "pred_start": 306, "diff": -11.756868362426758}
+{"id": "mini-yo-07", "golds": [], "pred_text": "matched the baseline", "pred_start": 190, "diff": 5.664418458938599}
+{"id": "mini-yo-08", "golds": ["2.1 percent"], "pred_text": "2.1 percent", "pred_start": 368, "diff": -12.235023498535156}
+{"id": "mini-yo-09", "golds": ["1.6 percent"], "pred_text": "1.6 percent", "pred_start": 301, "diff": -13.50312614440918}
+{"id": "mini-yo-10", "golds": [], "pred_text": "2.1 percent", "pred_start": 368, "diff": 5.159252166748047}
+{"id": "mini-yo-11", "golds": ["layer 3"], "pred_text": "layer 3", "pred_start": 279, "diff": -7.741466999053955}
+{"id": "mini-yo-12", "golds": ["random weights"], "pred_text": "random weights", "pred_start": 165, "diff": -8.432693481445312}
+{"id": "mini-yo-13", "golds": ["general"], "pred_text": "general", "pred_start": 204, "diff": -9.857698440551758}
