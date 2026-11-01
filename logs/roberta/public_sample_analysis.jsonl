@@ -1,0 +1,5 @@
+{"id": "sample-01", "golds": ["16", "16 attention heads"], "pred_text": "16", "pred_start": 383, "diff": -6.733371734619141}
+{"id": "sample-02", "golds": ["3.5 days"], "pred_text": "3.5 days", "pred_start": 437, "diff": -9.905111312866211}
+{"id": "sample-03", "golds": [], "pred_text": "paragraph.", "pred_start": 112, "diff": 19.158137321472168}
+{"id": "sample-04", "golds": [], "pred_text": "3", "pred_start": 310, "diff": -4.113935470581055}
+{"id": "sample-05", "golds": ["50,257", "50,257 tokens"], "pred_text": "50,257", "pred_start": 3157, "diff": -3.8687729835510254}

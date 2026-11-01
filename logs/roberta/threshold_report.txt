@@ -1,0 +1,21 @@
+questions: 3000 (1519 unanswerable)  weighting: 25% unanswerable
+
+threshold |     EM     F1  EM answerable  null acc   (tuning half)
+   -10.00 |  0.498  0.509          0.335     0.987
+    -8.00 |  0.609  0.628          0.491     0.963
+    -6.00 |  0.693  0.723          0.614     0.930
+    -4.00 |  0.738  0.776          0.683     0.906
+    -2.00 |  0.768  0.810          0.735     0.866
+     0.00 |  0.778  0.826          0.763     0.825
+     2.00 |  0.783  0.834          0.790     0.762
+     4.00 |  0.778  0.830          0.805     0.697
+     6.00 |  0.764  0.819          0.813     0.620
+     8.00 |  0.751  0.807          0.823     0.535
+    10.00 |  0.730  0.786          0.826     0.442
+
+BEST threshold on tuning half: 2.00
+tuning half : EM=0.783 F1=0.834 | answerable EM=0.790 | null acc=0.762
+HOLD-OUT half: EM=0.804 F1=0.849 | answerable EM=0.812 | null acc=0.778
+hold-out with default threshold 0.00: EM=0.795 F1=0.836
+full sweep saved to logs/roberta/threshold_sweep.csv
+updated models/roberta/qa_config.json -> threshold = 2.00
