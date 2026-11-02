@@ -17,8 +17,11 @@ import requests
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
-from qa.metrics import score_item  # noqa: E402
 
+from qa.metrics import score_item  # noqa: E402
+from dotenv import load_dotenv  # noqa: E402
+
+load_dotenv(ROOT / ".env")
 FAILS = []
 
 
