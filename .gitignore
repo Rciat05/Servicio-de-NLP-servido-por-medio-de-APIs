@@ -17,6 +17,7 @@ models/*
 *.pt
 *.pth
 *.onnx
+*.zip
 
 # --- Downloaded datasets / caches ---
 data/squad/
